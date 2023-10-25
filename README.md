@@ -4,6 +4,8 @@
 
 Welcome to the Robotics Course GitHub repository! This repository serves as the central hub for all course materials, assignments, and resources for our robotics course. Whether you're a student looking to master the fundamentals of robotics simulation or an instructor seeking to utilize our course materials, you've come to the right place.
 
+[Webots Tutorial TA Video](https://youtu.be/LYcgdz8ifGc)
+
 ## Course Overview
 
 In this course, we will explore key topics in robotics, providing you with a strong foundation in theory and practical skills for simulating robotic systems. The course is divided into several modules, each focusing on a critical aspect of robotics:

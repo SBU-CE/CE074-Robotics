@@ -6,6 +6,8 @@ Welcome to the Robotics Course GitHub repository! This repository serves as the 
 
 [Webots Tutorial TA Video](https://youtu.be/LYcgdz8ifGc)
 
+![photo_2024-03-12_16-54-43](https://github.com/SBU-CE/CE074-Robotics/assets/63340593/954402a5-5adc-48ba-8d78-14e0e79f220e)
+
 ## Course Overview
 
 In this course, we will explore key topics in robotics, providing you with a strong foundation in theory and practical skills for simulating robotic systems. The course is divided into several modules, each focusing on a critical aspect of robotics:
@@ -33,8 +35,6 @@ In this course, we will explore key topics in robotics, providing you with a str
 To reinforce your learning and apply the concepts covered in each module, we have designed a series of practical assignments and the project. These tasks will challenge you to solve real-world robotics problems, allowing you to showcase your skills and creativity.
 
 We encourage collaboration and innovation, so don't hesitate to reach out to our dedicated teaching assistants (TAs) for support and inspiration.
-
-We are excited to embark on this robotics journey with you and look forward to seeing your progress throughout the course.
 
 ## Instructor:
 * [Dr. Armin Salimi-Badr](https://scholar.google.com/citations?user=akmKmMQAAAAJ&hl=en)
